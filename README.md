@@ -6,4 +6,6 @@ Requirements:
 [PyGame](http://www.pygame.org/download.shtml) 1.9+ compatible with 
 
 Preview:
+
+
 ![Game Screenshot](http://i.imgur.com/dVEX7if.jpg)
